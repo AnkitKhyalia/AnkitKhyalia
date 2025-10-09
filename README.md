@@ -137,7 +137,7 @@ const ankit = {
 
 💼 Open to exciting opportunities and collaborations!
 
-📧 **Email:** 10ankitkhyalia@example.com  
+📧 **Email:** 10ankitkhyalia@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/ankitkhyalia](https://www.linkedin.com/in/ankitkhyalia/)  
 💻 **GitHub:** [github.com/ankitkhyalia](https://github.com/AnkitKhyalia)  
 🐦 **Twitter:** [@ankitkhyalia](https://twitter.com/ankitkhyalia)
