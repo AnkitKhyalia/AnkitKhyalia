@@ -131,16 +131,6 @@ const ankit = {
 ---
 
 
-## 📈 Contribution Graph
-
-<div align="center">
-  
-![snake gif](https://github.com/Ankitkhyalia/Ankitkhyalia/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
